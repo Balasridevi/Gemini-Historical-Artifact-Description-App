@@ -26,3 +26,5 @@ Clone the repository and install the required dependencies:
 git clone [https://github.com/yourusername/gemini-artifact-app.git](https://github.com/yourusername/gemini-artifact-app.git)
 cd gemini-artifact-app
 pip install -r requirements.txt# Gemini-Historical-Artifact-Description-App
+
+![image alt](https://github.com/Balasridevi/Gemini-Historical-Artifact-Description-App/blob/ad159a49a058c40720631911f3046ddeebd11ebb/Gemini%20Historical%20Artifact%20Description%20App.pdf)
