@@ -27,4 +27,5 @@ git clone [https://github.com/yourusername/gemini-artifact-app.git](https://gith
 cd gemini-artifact-app
 pip install -r requirements.txt# Gemini-Historical-Artifact-Description-App
 
-![image alt](https://github.com/Balasridevi/Gemini-Historical-Artifact-Description-App/blob/ad159a49a058c40720631911f3046ddeebd11ebb/Gemini%20Historical%20Artifact%20Description%20App.pdf)
+![image alt](https://github.com/Balasridevi/Gemini-Historical-Artifact-Description-App/blob/7058d3aa56c05c03833fbbf5dcaafdd9f559269a/Screenshot%202026-02-10%20163233.png)
+![image alt]()
