@@ -28,5 +28,7 @@ cd gemini-artifact-app
 pip install -r requirements.txt# Gemini-Historical-Artifact-Description-App
 ##Demo
 
-![image alt](Screenshot 2026-02-10 163233.png)
-![image alt](https://github.com/Balasridevi/Gemini-Historical-Artifact-Description-App/blob/de41bfdcdc5865c37d80b65667eeed86794d58b7/Screenshot%202026-02-10%20163308.png)
+
+<img width="1082" height="763" alt="Screenshot 2026-02-10 163233" src="https://github.com/user-attachments/assets/c1440943-e1a3-49bd-9a53-a9349d96d68d" />
+<img width="1078" height="761" alt="Screenshot 2026-02-10 163308" src="https://github.com/user-attachments/assets/71ca0c5a-289e-4230-a7b6-14c67b21846d" />
+
